@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:25:03.640Z",
+  "generated_at": "2026-10-27T04:25:12.863Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -13,6 +13,58 @@
       "last_pushed_at": "2026-10-27T04:24:58.835Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-02-11T03:47:53.589Z",
+      "last_pushed_at": "2026-02-11T03:47:53.589Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-02-11T03:55:28.918Z",
+      "last_pushed_at": "2026-02-11T03:55:28.918Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-02-11T04:27:10.320Z",
+      "last_pushed_at": "2026-02-11T04:27:10.320Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:225": {
+      "kind": "problem",
+      "id": "225",
+      "title": "KL Divergence Estimator for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/225",
+      "path": "problems/0225-kl-divergence-estimator-for-grpo",
+      "first_solved_at": "2026-02-11T04:49:04.786Z",
+      "last_pushed_at": "2026-02-11T04:49:04.786Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
